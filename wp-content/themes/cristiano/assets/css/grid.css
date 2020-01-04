@@ -1,0 +1,90 @@
+/* RESPONSIVE GRID SYSTEM v2.0 - By UkrDevs - http://ukrdevs.com
+   ========================================================================== */
+   
+.center {
+	width:  1270px;
+	margin: 0 auto;
+}
+/* UNIVERSAL GRID
+   ========================================================================== */
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+[class*="cols-"] > * {
+	float: left;
+}
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;	
+	clear: both;
+}
+.cols-1 > * { width: 100%;    }
+.cols-2 > * { width: 50%;     }
+.cols-3 > * { width: 33.333333%; }
+.cols-4 > * { width: 25%; }
+.cols-5 > * { width: 20%;     }
+.cols-6 > * { width: 16.666%; }
+.cols-7 > * {width: 14.2%;   }
+
+.cols-2 > *:nth-child(2n+1),
+.cols-3 > *:nth-child(3n+1),
+.cols-4 > *:nth-child(4n+1),
+.cols-5 > *:nth-child(5n+1),
+.cols-6 > *:nth-child(6n+1),
+.cols-7 > *:nth-child(7n+1) {
+	clear: both; 
+}
+
+.cols-2.flex > * { flex: 1 465px; }
+.cols-3.flex > * { flex: 1 370px;  max-width: 465px }
+.cols-4.flex > * { flex: 1 280px; max-width: 390px  }
+.cols-5.flex > * { flex: 1 264px;  }
+.cols-6.flex > * { flex: 1 210px;  }
+
+.margin-small {
+	margin-left: -1px;
+	margin-right: -1px;
+}
+.margin-medium {
+	margin-left: -5px;
+	margin-right: -5px;
+}
+.margin-large {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.margin-small > * {
+	padding-left: 1px;
+	padding-right: 1px;
+}
+.margin-medium > * {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.margin-large > * {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.to-right > * { 
+	float: right;
+}
+
+.like-table {
+	display: table;
+	width: 100%;
+	table-layout: fixed;	
+}
+.like-table > * {
+	display: table-cell;
+	vertical-align: middle;
+	float: none;
+}
+.gallery::after,
+#single-post::after,
+[class*="cols-"]::after,
+.clearfix::after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}

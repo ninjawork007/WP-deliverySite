@@ -1,0 +1,195 @@
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+table td, table th {
+	text-align: right;
+}
+input[type=text],
+textarea {
+     direction: ltr;
+     text-align: right;
+}
+[class*="cols-"] > * {
+	float: right;
+}
+select {
+	background-position: 0 50%;
+}
+.flex-header .td-3 {
+	text-align: left;
+}
+.to-right > * {
+	float: left;
+}
+blockquote {
+	border-left: 0;
+	border-right: 3px solid #D1A054;
+}
+/* Top Bar
+   ========================================================================== */
+.header-info i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+#top-bar .social {
+	float: left;
+}
+.additional-links {
+	float: left;
+}
+.header-v1 .logo {
+	float: right;
+}
+.header .primary-menu {
+	float: left;
+}
+.shopping-cart {
+	float: left;
+	padding-left: 0;
+	padding-right: 15px;
+}
+.text-logo .description {
+	text-indent: -5px;
+}
+.dropdown-toggle:after, 
+.primary-menu .menu-item-has-children > a:after {
+	margin-left: 0;
+	margin-right: 10px;
+}
+.primary-menu .sub-menu {
+	text-align: right;
+}
+
+/* Our Menu
+   ========================================================================== */
+.dishes-menu .thumbnail {
+	float: right;
+	margin-right: 0;
+	margin-left: 15px;
+}
+.large-imgs .has-post-thumbnail .description {
+	padding-left: 0;
+	padding-right: 125px;
+}
+.medium-imgs .has-post-thumbnail .description {
+	padding-left: 0;
+	padding-right: 95px;
+}
+.small-imgs .has-post-thumbnail .description {
+	padding-left: 0;
+	padding-right: 70px;
+}
+.dishes-menu .thumbnail .attachment-cristiano_small_image {
+	border-radius: 50% 0 50% 50%;
+}
+.dishes-menu .thumbnail:hover .attachment-cristiano_small_image {
+    border-radius: 0 50% 50%;	
+}
+.dishes-menu .zoom-img {
+	left: initial;
+	right: 100%;
+}
+/* Comments
+   ========================================================================== */
+.comment-body .reply {
+	right: initial;
+	left: 30px;
+}
+.comment-author img {
+	float: right;
+    margin: 0 0 15px 15px;	
+}
+.comment-edit-link {
+	display: inline-block;
+}
+
+/* Delivery List
+   ========================================================================== */
+.product-list-small .thumbnail {
+	float: right;
+	margin-right: 0;
+	margin-left: 15px;
+}
+.dm-price {
+	float: left;
+}
+.product-list-small .description {
+	padding-left: 0;
+	padding-right: 125px;
+}
+.product-list-small .size-cristiano_small_image, 
+.product-list-small .woocommerce-placeholder {
+    border-radius: 50% 0 50% 50%;
+}
+.product-list-small .ajax_add_to_cart, 
+.product-list-small .product_type_variable {
+    border-radius: 50% 0 50% 50%;	
+}
+.product-list-small .zoom-img {
+	left: initial;
+	right: 100%;
+}
+.product-list-small .thumbnail:hover 
+.size-cristiano_small_image, 
+.product-list-small .thumbnail:hover 
+.woocommerce-placeholder, 
+.product-list-small .thumbnail:hover 
+.ajax_add_to_cart, 
+.product-list-small .thumbnail:hover 
+.product_type_variable {
+    border-radius: 0 50% 50%;
+} 
+
+/* Mini Cart
+   ========================================================================== */
+.header-mini-cart {
+	right: initial;
+	left: 0;
+}
+.product_list_widget img {
+	float: left;
+}
+.mini_cart_item .remove {
+	right: initial;
+	left: 45px;
+}
+.cart-links i {
+	margin-right: 0;
+	margin-left: 10px;
+}
+/* Blog
+   ========================================================================== */
+.article.has-post-thumbnail .details {
+	left: initial;
+	right: -45px;
+}
+.to-right.has-post-thumbnail .details {
+	right: initial;
+	left: -45px;
+}
+.widget_nav_menu a:before, 
+.widget_archive a:before, 
+.widget_pages a:before, 
+.widget_meta a:before, 
+.widget_recent_entries a:before, 
+.widget_recent_comments .comment-author-link:before, 
+.woocommerce-widget-layered-nav a:before, 
+.widget_product_categories a:before {
+	content: '\f104';
+}
+.widget_nav_menu a:before, 
+.widget_archive a:before, 
+.widget_pages a:before, 
+.widget_meta a:before, 
+.widget_recent_entries a:before, 
+.widget_recent_comments .comment-author-link:before, 
+.woocommerce-widget-layered-nav a:before, 
+.widget_product_categories a:before {
+	 margin-left: 0;
+	 margin-right: -20px;
+}
+.search-submit {
+	right: initial;
+	left: 0;
+}

@@ -1,0 +1,12 @@
+#map {
+	height: 470px;
+	margin: 30px 0;
+}
+#customize-controls .cs-field-heading {
+	text-transform: uppercase;
+	text-align: center;
+}
+input.disabled, input:disabled {
+	background-repeat: no-repeat !important;
+	background-size: contain;
+}

@@ -1,0 +1,2045 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-05 10:18+0300\n"
+"PO-Revision-Date: 2017-11-29 16:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: themes/cristiano\n"
+"X-Poedit-SearchPath-1: plugins/ukrdevs-restaurant-core/shortcodes\n"
+"X-Poedit-SearchPath-2: plugins/ukrdevs-restaurant-core/widgets\n"
+"X-Poedit-SearchPath-3: plugins/ukrdevs-restaurant-core/type-our-menu\n"
+"X-Poedit-SearchPath-4: plugins/ukrdevs-restaurant-core/type-promo-slider\n"
+"X-Poedit-SearchPath-5: plugins/ukrdevs-restaurant-core/type-testimonials\n"
+"X-Poedit-SearchPathExcluded-0: themes/cristiano/woocommerce\n"
+"X-Poedit-SearchPathExcluded-1: themes/cristiano/inc/class-tgm-plugin-"
+"activation.php\n"
+"X-Poedit-SearchPathExcluded-2: themes/cristiano/languages\n"
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-details.php:5
+msgid "Our Location"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-details.php:6
+msgid "Visit Us"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:5
+#: themes/cristiano/inc/config/framework.config.php:546
+#: themes/cristiano/inc/config/shortcode.config.php:567
+msgid "Contact Form"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:6
+msgid "Send Us Message"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:23
+msgid "Your Name"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:27
+msgid "Your Email"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:31
+msgid "Your Phone"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:36
+msgid "Message"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:41
+msgid "Send Message"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:119
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:157
+msgid ""
+"Oops! There was a problem with your submission. Please complete the form and "
+"try again."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:131
+msgid "Contact Form: Message from"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:134
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:172
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:196
+msgid "Name:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:135
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:174
+msgid "Email:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:136
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:173
+msgid "Phone:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:137
+msgid "Message:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:146
+msgid "Thank You! Your message has been sent."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/contact-form.php:150
+msgid "Oops! Something went wrong and we couldn't send your message."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/heading.php:6
+msgid "Title goes here"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/heading.php:7
+msgid "Subtitle goes here"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/latest-news.php:6
+#: themes/cristiano/inc/config/shortcode.config.php:64
+msgid "Latest News"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/latest-news.php:7
+msgid "From Our Blog"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/latest-news.php:37
+msgid "You have no Posts."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:6
+msgid "Open Table"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:7
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:6
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:71
+msgid "Book a Table"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:25
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:25
+msgid "Date"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:30
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:29
+msgid "Time"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:49
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:50
+msgid "Guest Number"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:51
+msgid "Person"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:52
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:53
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:54
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:55
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:56
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:57
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:58
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:59
+#: plugins/ukrdevs-restaurant-core/shortcodes/open-table-reservation.php:60
+msgid "People"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/product-categories.php:6
+msgid "Order Online"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/product-categories.php:7
+msgid "From 11:00am to 10:00pm"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:5
+msgid "Reservation"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:58
+msgid "Name"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:62
+#: themes/cristiano/inc/config/framework.config.php:360
+#: themes/cristiano/inc/config/framework.config.php:365
+#: themes/cristiano/inc/config/framework.config.php:370
+#: themes/cristiano/inc/config/framework.config.php:375
+#: themes/cristiano/template-parts/contact-details.php:5
+msgid "Phone"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:66
+#: themes/cristiano/template-parts/contact-details.php:43
+msgid "Email"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:168
+msgid "Reservation Request from"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:170
+msgid "Reservation Request"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:175
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:197
+msgid "Date:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:176
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:198
+msgid "Time:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:177
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:199
+msgid "Guest Number:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:195
+msgid "Hello! We have received your reservation request."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:200
+msgid "Our manager will contact you soon for confirmation. Thank you!"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:207
+msgid ""
+"Thank You! Your reservation request has been sent. We will contact you soon "
+"for confirmation."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/reservation.php:212
+msgid ""
+"Oops! Something went wrong and we couldn't send your reservation request."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/star-products.php:6
+msgid "Chef Recommends"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/shortcodes/star-products.php:7
+msgid "Should to Try"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/admin-featured-product.php:13
+msgid "Featured"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/admin-featured-product.php:23
+msgid "Images"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:4
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:6
+#: themes/cristiano/inc/config/framework.config.php:669
+#: themes/cristiano/inc/config/shortcode.config.php:383
+msgid "Our Menu"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:5
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:7
+msgid "Dish"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:8
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:9
+msgid "Add New Dish"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:10
+msgid "New Dish"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:11
+msgid "Edit Dish"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:12
+msgid "View Dish"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:13
+msgid "All Dishes"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:14
+msgid "Search Dishes"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:15
+msgid "Parent Dishes:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:16
+msgid "No dishes found."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/post-type.php:17
+msgid "No dishes found in Trash."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/custom/taxonomy.php:4
+msgid "Menu Categories"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/functions.php:65
+msgid "Order"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu-cats.php:5
+msgid "Our Menus"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu-cats.php:6
+msgid "Discover"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu-teaser.php:6
+msgid "From Our Menu"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu-teaser.php:7
+msgid "Random Dishes"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu-teaser.php:47
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu.php:171
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/top-dishes.php:34
+msgid "View Full Menu"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu.php:132
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/our-menu.php:163
+#: themes/cristiano/taxonomy-dishes_categories.php:91
+msgid "No menu items found."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/top-dishes.php:6
+msgid "Today's Offer"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/top-dishes.php:7
+msgid "Don't Miss"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-our-menu/shortcodes/top-dishes.php:40
+msgid "No products."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:4
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:6
+msgid "Promo Slider"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:5
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:7
+msgid "Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:8
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:9
+msgid "Add New Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:10
+msgid "New Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:11
+msgid "Edit Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:12
+msgid "View Slide"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:13
+msgid "All Slides"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:14
+msgid "Search Slides"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:15
+msgid "Parent Slides:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:16
+msgid "No slides found."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/post-type.php:17
+msgid "No slides found in Trash."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-promo-slider/custom/taxonomy.php:4
+msgid "Promo Categories"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:4
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:6
+#: plugins/ukrdevs-restaurant-core/type-testimonials/shortcodes/testimonials-slider.php:5
+msgid "Testimonials"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:5
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:7
+msgid "Testimonial"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:8
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:9
+msgid "Add New Testimonial"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:10
+msgid "New Testimonial"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:11
+msgid "Edit Testimonial"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:12
+msgid "View Testimonial"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:13
+msgid "All Testimonials"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:14
+msgid "Search Testimonials"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:15
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:16
+msgid "No Testimonials found."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/custom/post-type.php:17
+msgid "No Testimonials found in Trash."
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/type-testimonials/shortcodes/testimonials-slider.php:6
+msgid "What Our Clients Say"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/widgets/contact-us.php:10
+msgid "Restaurant Contact Details"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/widgets/contact-us.php:11
+msgid "Contact Information"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/widgets/contact-us.php:41
+msgid "Contact Us"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/widgets/contact-us.php:45
+#: plugins/ukrdevs-restaurant-core/widgets/social.php:48
+msgid "Title:"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/widgets/social.php:10
+msgid "Restaurant Social Links"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/widgets/social.php:11
+msgid "A list of social networks url"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/widgets/social.php:43
+msgid "Follow Us"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/widgets/social.php:44
+msgid "Join us on social networks"
+msgstr ""
+
+#: plugins/ukrdevs-restaurant-core/widgets/social.php:52
+msgid "Subtitle:"
+msgstr ""
+
+#: themes/cristiano/404.php:5
+msgid "Page Not Found"
+msgstr ""
+
+#: themes/cristiano/404.php:6
+msgid "Back to Home Page"
+msgstr ""
+
+#: themes/cristiano/comments.php:23 themes/cristiano/comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: themes/cristiano/comments.php:24 themes/cristiano/comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: themes/cristiano/comments.php:25 themes/cristiano/comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: themes/cristiano/comments.php:48
+msgid "There are no comments"
+msgstr ""
+
+#: themes/cristiano/comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:11
+#: themes/cristiano/inc/config/framework.config.php:8
+#: themes/cristiano/inc/config/framework.config.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:15
+msgid "Header"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:23
+msgid "Header Design"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:39
+#: themes/cristiano/inc/config/metabox.config.php:161
+msgid "Transparent Header"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:50
+msgid "Full Width"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:57
+msgid "Header Image Shading Overlay"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:60
+msgid "Gradient"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:61
+msgid "Radial"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:65
+#: themes/cristiano/inc/config/shortcode.config.php:53
+#: themes/cristiano/inc/config/shortcode.config.php:131
+#: themes/cristiano/inc/config/shortcode.config.php:589
+#: themes/cristiano/inc/config/shortcode.config.php:622
+#: themes/cristiano/inc/config/shortcode.config.php:656
+msgid "None"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:75
+msgid "Dynamic Shadow"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:85
+msgid "Hide Cart Icon"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:93
+#: themes/cristiano/inc/config/shortcode.config.php:153
+msgid "Heading"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:101
+msgid "Heading Style"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:117
+msgid "Colors"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:121
+msgid "Top Bar Colors"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:128
+#: themes/cristiano/inc/config/customize.config.php:161
+#: themes/cristiano/inc/config/customize.config.php:203
+#: themes/cristiano/inc/config/customize.config.php:236
+msgid "Background"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:137
+#: themes/cristiano/inc/config/customize.config.php:170
+#: themes/cristiano/inc/config/customize.config.php:212
+#: themes/cristiano/inc/config/customize.config.php:245
+msgid "Text"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:146
+#: themes/cristiano/inc/config/customize.config.php:179
+#: themes/cristiano/inc/config/customize.config.php:221
+#: themes/cristiano/inc/config/customize.config.php:254
+msgid "Accent"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:154
+msgid "Header Colors"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:188
+msgid "Image Text [Global]"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:196
+msgid "Content Colors"
+msgstr ""
+
+#: themes/cristiano/inc/config/customize.config.php:229
+#: themes/cristiano/inc/config/framework.config.php:597
+msgid "Footer"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:23
+msgid "General"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:29
+#: themes/cristiano/inc/config/framework.config.php:35
+msgid "Layout"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:40
+msgid "Parallax"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:45
+#: themes/cristiano/inc/config/metabox.config.php:365
+msgid "Select boxed or wide layout."
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:47
+#: themes/cristiano/inc/config/metabox.config.php:368
+msgid "Wide layout"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:48
+#: themes/cristiano/inc/config/metabox.config.php:369
+msgid "Boxed layout"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:56
+msgid "Select a Background Pattern"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:71
+msgid "Background pattern shows only on boxed layout!"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:83
+msgid "Typography"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:89
+msgid "Custom Fonts"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:99
+msgid "BODY FONT"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:105
+#: themes/cristiano/inc/config/framework.config.php:159
+#: themes/cristiano/inc/config/framework.config.php:218
+msgid "Google Fonts"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:106
+#: themes/cristiano/inc/config/framework.config.php:160
+#: themes/cristiano/inc/config/framework.config.php:219
+msgid "Custom Font"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:132
+#: themes/cristiano/inc/config/framework.config.php:143
+#: themes/cristiano/inc/config/framework.config.php:186
+#: themes/cristiano/inc/config/framework.config.php:197
+#: themes/cristiano/inc/config/framework.config.php:245
+#: themes/cristiano/inc/config/framework.config.php:256
+msgid "Upload Font"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:133
+#: themes/cristiano/inc/config/framework.config.php:144
+#: themes/cristiano/inc/config/framework.config.php:187
+#: themes/cristiano/inc/config/framework.config.php:198
+#: themes/cristiano/inc/config/framework.config.php:246
+#: themes/cristiano/inc/config/framework.config.php:257
+msgid "Choose a Font"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:134
+#: themes/cristiano/inc/config/framework.config.php:145
+#: themes/cristiano/inc/config/framework.config.php:188
+#: themes/cristiano/inc/config/framework.config.php:199
+#: themes/cristiano/inc/config/framework.config.php:247
+#: themes/cristiano/inc/config/framework.config.php:258
+msgid "Use This Font"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:153
+msgid "HEADING FONT"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:208
+#: themes/cristiano/inc/config/framework.config.php:267
+msgid "to UPPERCASE"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:212
+msgid "TITLE FONT"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:271
+msgid "Languages Subsets"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:286
+msgid "Note: Make sure font already supports selected character set/sets."
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:295
+#: themes/cristiano/inc/config/shortcode.config.php:97
+msgid "Contact Details"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:302
+#: themes/cristiano/template-parts/contact-details.php:16
+msgid "Address"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:307
+msgid "Actual Address"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:313
+msgid "Address Notes"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:319
+msgid "Open Table Restaurant ID"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:324
+msgid "Open Table Site"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:346
+msgid "Public email"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:355
+msgid "Phone Numbers"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:386
+#: themes/cristiano/template-parts/contact-details.php:31
+msgid "Working Hours"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:391
+#: themes/cristiano/inc/config/framework.config.php:397
+#: themes/cristiano/inc/config/framework.config.php:403
+#: themes/cristiano/inc/config/framework.config.php:409
+#: themes/cristiano/inc/config/framework.config.php:415
+#: themes/cristiano/inc/config/framework.config.php:421
+msgid "Row"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:435
+#: themes/cristiano/inc/config/framework.config.php:442
+#: themes/cristiano/inc/config/framework.config.php:858
+msgid "Social Networks"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:449
+#: themes/cristiano/inc/config/framework.config.php:457
+#: themes/cristiano/inc/config/framework.config.php:465
+#: themes/cristiano/inc/config/framework.config.php:473
+#: themes/cristiano/inc/config/framework.config.php:481
+#: themes/cristiano/inc/config/framework.config.php:489
+#: themes/cristiano/inc/config/framework.config.php:497
+#: themes/cristiano/inc/config/framework.config.php:505
+#: themes/cristiano/inc/config/framework.config.php:513
+#: themes/cristiano/inc/config/framework.config.php:521
+#: themes/cristiano/inc/config/framework.config.php:529
+msgid "Social Url"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:541
+msgid "Website Forms"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:551
+#: themes/cristiano/inc/config/framework.config.php:564
+msgid "Send To Email Address"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:555
+#: themes/cristiano/inc/config/framework.config.php:568
+msgid "Defaults to your current email address."
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:559
+msgid "Reservation Form"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:573
+msgid "Max Guest Number"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:582
+msgid "Signature"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:590
+msgid ""
+"Signature is displayed in the reservation email copy that goes to the client."
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:602
+msgid "Footer Copyright"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:607
+msgid "Copyright Text"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:608
+msgid ""
+"Enter the text that displays in the copyright bar. HTML markup can be used."
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:616
+msgid "Post Types"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:622
+msgid "Blog Settings"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:627
+#: themes/cristiano/inc/config/framework.config.php:632
+msgid "Single Post Page"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:636
+msgid "Set Single Post Sidebar"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:639
+#: themes/cristiano/inc/config/framework.config.php:827
+#: themes/cristiano/inc/config/metabox.config.php:336
+msgid "No Sidebar"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:640
+#: themes/cristiano/inc/config/framework.config.php:828
+msgid "Left Sidebar"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:641
+#: themes/cristiano/inc/config/framework.config.php:829
+msgid "Right Sidebar"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:647
+#: themes/cristiano/inc/config/framework.config.php:835
+#: themes/cristiano/inc/config/metabox.config.php:344
+msgid "Widget Area"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:651
+#: themes/cristiano/inc/config/framework.config.php:839
+#: themes/cristiano/inc/config/metabox.config.php:348
+#: themes/cristiano/inc/init.php:128
+msgid "Blog Sidebar"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:652
+#: themes/cristiano/inc/config/framework.config.php:840
+#: themes/cristiano/inc/config/metabox.config.php:349
+#: themes/cristiano/inc/init.php:137
+msgid "Shop Sidebar"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:653
+#: themes/cristiano/inc/config/framework.config.php:841
+#: themes/cristiano/inc/config/metabox.config.php:350
+#: themes/cristiano/inc/init.php:146
+msgid "General Sidebar"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:656
+#: themes/cristiano/inc/config/framework.config.php:844
+#: themes/cristiano/inc/config/metabox.config.php:353
+msgid "Choose widget area to display"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:675
+msgid "Currency Symbol"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:681
+msgid "Currency Position"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:683
+#: themes/cristiano/inc/config/metabox.config.php:337
+#: themes/cristiano/inc/config/shortcode.config.php:225
+msgid "Left"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:684
+#: themes/cristiano/inc/config/metabox.config.php:338
+#: themes/cristiano/inc/config/shortcode.config.php:226
+msgid "Right"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:685
+msgid "Left with Space"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:686
+msgid "Right with Space"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:689
+msgid "Please select the position of the currency symbol."
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:694
+msgid "Menu Item Single Page"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:699
+msgid "Daily Menu"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:704
+msgid "Menu Page"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:706
+msgid "- Select Menu Page -"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:712
+msgid ""
+"For correct work of daily menu - Your parent menu categories must be days of "
+"week."
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:720
+msgid "WooCommerce"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:725
+msgid "Catalog Page"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:730
+msgid "Catalog Page Settings"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:735
+msgid "Product Catalog Template"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:737
+msgid "Classic"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:738
+msgid "List"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:745
+msgid "Product Catalog Columns"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:748
+#: themes/cristiano/inc/config/framework.config.php:749
+#: themes/cristiano/inc/config/framework.config.php:750
+#: themes/cristiano/inc/config/shortcode.config.php:266
+#: themes/cristiano/inc/config/shortcode.config.php:367
+msgid "Columns"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:764
+msgid "Featured Products"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:769
+#: themes/cristiano/inc/config/metabox.config.php:195
+#: themes/cristiano/inc/config/shortcode.config.php:35
+#: themes/cristiano/inc/config/shortcode.config.php:69
+#: themes/cristiano/inc/config/shortcode.config.php:102
+#: themes/cristiano/inc/config/shortcode.config.php:158
+#: themes/cristiano/inc/config/shortcode.config.php:233
+#: themes/cristiano/inc/config/shortcode.config.php:256
+#: themes/cristiano/inc/config/shortcode.config.php:299
+#: themes/cristiano/inc/config/shortcode.config.php:346
+#: themes/cristiano/inc/config/shortcode.config.php:414
+#: themes/cristiano/inc/config/shortcode.config.php:478
+#: themes/cristiano/inc/config/shortcode.config.php:572
+#: themes/cristiano/inc/config/shortcode.config.php:605
+#: themes/cristiano/inc/config/shortcode.config.php:638
+msgid "Title"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:775
+msgid "Subtitle"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:781
+msgid "Product Navigation"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:790
+msgid "Products per page"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:792
+msgid "product items"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:802
+msgid "Single Product"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:807
+msgid "Single Product Settings"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:811
+msgid "Number of Related Products"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:820
+#: themes/cristiano/inc/config/metabox.config.php:328
+msgid "Sidebar"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:824
+msgid "Set Single Product Sidebar"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:848
+msgid "Social Sharing"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:853
+msgid "Social Share Buttons"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:875
+msgid "Checkout Page"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:880
+msgid "Checkout Billing Fields"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:884
+msgid "Last Name Field"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:889
+msgid "Company Field"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:894
+msgid "Country Field"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:899
+msgid "State Field"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:904
+msgid "Post Code Field"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:909
+msgid "City Field"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:920
+msgid "Services"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:925
+#: themes/cristiano/inc/config/framework.config.php:935
+msgid "Google Analytics"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:940
+msgid "Enter Your Tracking ID"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:951
+#: themes/cristiano/inc/config/framework.config.php:956
+msgid "Google Maps"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:961
+msgid ""
+"Info: For correct Google Maps working you should paste your generated Google "
+"Maps API key to field bellow"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:966
+msgid "Google Map API"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:972
+msgid "Chose Custom Google Maps Pointer"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:982
+msgid "Google Maps Styles"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:991
+msgid "The Changes will take effect after saving."
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:995
+msgid "Info Window"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:1005
+msgid "Custom Marker"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:1012
+msgid "Backup"
+msgstr ""
+
+#: themes/cristiano/inc/config/framework.config.php:1018
+msgid "You can save your current options. Download a Backup and Import."
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:12
+msgid "Product Options"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:24
+#: themes/cristiano/inc/config/metabox.config.php:32
+msgid "Single Price"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:25
+#: themes/cristiano/inc/config/metabox.config.php:42
+msgid "Multiple Prices"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:33
+msgid "No currency symbols"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:43
+msgid "Add Price"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:45
+msgid ""
+"Solutions for product portion with different prices. For example: Pizza "
+"Sizes or ml of Drinks."
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:50
+msgid "Label"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:59
+msgid "Price"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:70
+msgid "Highlight"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:79
+msgid "Product Short Description"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:99
+msgid "Link to WooCommerce Product"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:110
+msgid "Order Button"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:115
+msgid "Select WooCommerce Product"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:136
+msgid "Page Options"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:143
+msgid "Page Header"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:151
+msgid "Minimal"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:152
+msgid "Featured Image"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:153
+msgid "Presentation Slider"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:154
+msgid "Swiped Slider"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:155
+msgid "Shortcode"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:165
+#: themes/cristiano/inc/config/metabox.config.php:367
+#: themes/cristiano/inc/config/shortcode.config.php:187
+msgid "Default"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:166
+msgid "On"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:167
+msgid "Off"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:173
+msgid "Hide Title"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:179
+msgid "Info: The Header will not be a transparent in minimal variant."
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:190
+msgid "Logo"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:200
+msgid "Description"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:205
+msgid "Add Button"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:215
+msgid "Page URL"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:218
+msgid "Select a Page"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:222
+msgid "Custom URL"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:230
+msgid "Link Text"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:236
+#: themes/cristiano/inc/config/shortcode.config.php:207
+msgid "Open link in a new tab"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:243
+msgid "Slider Type"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:246
+msgid "Gallery"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:247
+#: themes/cristiano/inc/config/metabox.config.php:261
+msgid "Video"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:254
+msgid "Slider Images"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:264
+msgid "Upload Video"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:273
+msgid "Height in px"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:274
+msgid "Leave empty for full screen"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:287
+msgid "Paste Slider Shortcode"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:299
+msgid "Slide Title"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:304
+msgid "Slide Description"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:309
+msgid "Slide Background Image"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:314
+msgid "Slide Button Text"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:320
+msgid "Slide Button Link"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:333
+msgid "Sidebar Position"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:359
+msgid "Page Layout"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:377
+msgid "Google Map"
+msgstr ""
+
+#: themes/cristiano/inc/config/metabox.config.php:383
+msgid "Google Map Above Footer"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:10
+msgid "General Shortcodes"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:19
+msgid "Select Promo Categories"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:30
+msgid "Testimonials Slider"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:40
+#: themes/cristiano/inc/config/shortcode.config.php:74
+#: themes/cristiano/inc/config/shortcode.config.php:107
+#: themes/cristiano/inc/config/shortcode.config.php:163
+#: themes/cristiano/inc/config/shortcode.config.php:261
+#: themes/cristiano/inc/config/shortcode.config.php:304
+#: themes/cristiano/inc/config/shortcode.config.php:351
+#: themes/cristiano/inc/config/shortcode.config.php:419
+#: themes/cristiano/inc/config/shortcode.config.php:483
+#: themes/cristiano/inc/config/shortcode.config.php:577
+#: themes/cristiano/inc/config/shortcode.config.php:610
+#: themes/cristiano/inc/config/shortcode.config.php:643
+msgid "Sub Title"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:45
+#: themes/cristiano/inc/config/shortcode.config.php:123
+#: themes/cristiano/inc/config/shortcode.config.php:218
+#: themes/cristiano/inc/config/shortcode.config.php:582
+#: themes/cristiano/inc/config/shortcode.config.php:615
+#: themes/cristiano/inc/config/shortcode.config.php:648
+msgid "Image"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:50
+#: themes/cristiano/inc/config/shortcode.config.php:128
+#: themes/cristiano/inc/config/shortcode.config.php:587
+#: themes/cristiano/inc/config/shortcode.config.php:620
+#: themes/cristiano/inc/config/shortcode.config.php:653
+msgid "Shading"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:79
+msgid "Count"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:90
+msgid "Categories"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:91
+#: themes/cristiano/inc/config/shortcode.config.php:288
+#: themes/cristiano/inc/config/shortcode.config.php:362
+#: themes/cristiano/inc/config/shortcode.config.php:401
+#: themes/cristiano/inc/config/shortcode.config.php:429
+msgid "Leave blank to show all categories."
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:113
+#: themes/cristiano/inc/config/shortcode.config.php:118
+msgid "Short Info"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:141
+msgid "Custom Height"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:147
+msgid "Leave empty for auto height"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:169
+msgid "Button"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:174
+msgid "Button Title"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:180
+msgid "Button Link"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:185
+msgid "Button Style"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:188
+msgid "Primary"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:189
+msgid "Transparent"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:196
+msgid "Button Size"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:198
+#: themes/cristiano/inc/config/shortcode.config.php:446
+#: themes/cristiano/inc/config/shortcode.config.php:500
+#: themes/cristiano/inc/config/shortcode.config.php:539
+#: themes/cristiano/inc/config/taxonomy.config.php:54
+msgid "Small"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:199
+#: themes/cristiano/inc/config/shortcode.config.php:447
+#: themes/cristiano/inc/config/shortcode.config.php:501
+#: themes/cristiano/inc/config/shortcode.config.php:540
+#: themes/cristiano/inc/config/taxonomy.config.php:55
+msgid "Medium"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:200
+#: themes/cristiano/inc/config/shortcode.config.php:448
+#: themes/cristiano/inc/config/shortcode.config.php:502
+#: themes/cristiano/inc/config/shortcode.config.php:541
+#: themes/cristiano/inc/config/taxonomy.config.php:56
+msgid "Large"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:213
+msgid "Aricle"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:223
+msgid "Image Position"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:238
+msgid "Content"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:247
+msgid "WooCommerce Shortcodes"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:251
+msgid "Product Categories"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:276
+#: themes/cristiano/inc/config/shortcode.config.php:377
+msgid "Carousel"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:282
+#: themes/cristiano/inc/config/shortcode.config.php:356
+#: themes/cristiano/inc/config/shortcode.config.php:395
+msgid "Choose Categories to Display"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:294
+msgid "Featured Star Products"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:310
+msgid "Product Category"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:315
+msgid "Category Slug"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:316
+msgid "Go to: WooCommerce > Products > Categories to find the slug column."
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:322
+msgid "Products"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:327
+msgid "Products IDs"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:328
+msgid "Comma separated IDs of products"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:337
+msgid "Our Menu Shortcodes"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:341
+msgid "Our Menu Categories"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:388
+msgid "Menu Naviagtion"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:409
+msgid "Random Menu Items"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:424
+msgid "Choose categories to Display"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:433
+#: themes/cristiano/inc/config/shortcode.config.php:487
+msgid "Menu Display"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:436
+#: themes/cristiano/inc/config/shortcode.config.php:490
+msgid "1 column"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:437
+#: themes/cristiano/inc/config/shortcode.config.php:491
+msgid "2 columns"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:443
+#: themes/cristiano/inc/config/shortcode.config.php:497
+#: themes/cristiano/inc/config/shortcode.config.php:536
+#: themes/cristiano/inc/config/taxonomy.config.php:49
+msgid "Product Image Sizes"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:454
+#: themes/cristiano/inc/config/shortcode.config.php:508
+#: themes/cristiano/inc/config/shortcode.config.php:547
+#: themes/cristiano/inc/config/taxonomy.config.php:61
+msgid "Product Image Styles"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:457
+#: themes/cristiano/inc/config/shortcode.config.php:511
+#: themes/cristiano/inc/config/shortcode.config.php:550
+#: themes/cristiano/inc/config/taxonomy.config.php:66
+msgid "Square"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:458
+#: themes/cristiano/inc/config/shortcode.config.php:512
+#: themes/cristiano/inc/config/shortcode.config.php:551
+#: themes/cristiano/inc/config/taxonomy.config.php:67
+msgid "Rounded"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:459
+#: themes/cristiano/inc/config/shortcode.config.php:513
+#: themes/cristiano/inc/config/shortcode.config.php:552
+#: themes/cristiano/inc/config/taxonomy.config.php:68
+msgid "Circle"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:460
+#: themes/cristiano/inc/config/shortcode.config.php:514
+#: themes/cristiano/inc/config/shortcode.config.php:553
+#: themes/cristiano/inc/config/taxonomy.config.php:69
+msgid "Drop"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:467
+msgid "Full Menu URI"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:473
+msgid "Top Dishes"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:521
+msgid "Full Menu URL"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:527
+msgid "Single Item"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:532
+msgid "Enter Single Menu Item ID"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:563
+msgid "Form Shortcodes"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:600
+msgid "Email Reservation"
+msgstr ""
+
+#: themes/cristiano/inc/config/shortcode.config.php:633
+msgid "Open Table Reservation"
+msgstr ""
+
+#: themes/cristiano/inc/config/taxonomy.config.php:14
+msgid "Header Image"
+msgstr ""
+
+#: themes/cristiano/inc/config/taxonomy.config.php:17
+msgid "Add Header Image"
+msgstr ""
+
+#: themes/cristiano/inc/config/taxonomy.config.php:21
+msgid "Custom Link"
+msgstr ""
+
+#: themes/cristiano/inc/config/taxonomy.config.php:32
+#: themes/cristiano/inc/config/taxonomy.config.php:81
+msgid "Category Image"
+msgstr ""
+
+#: themes/cristiano/inc/config/taxonomy.config.php:35
+#: themes/cristiano/inc/config/taxonomy.config.php:84
+msgid "Add Category Image"
+msgstr ""
+
+#: themes/cristiano/inc/cristiano.php:27
+msgid "Sign In"
+msgstr ""
+
+#: themes/cristiano/inc/cristiano.php:28
+#: themes/cristiano/inc/woocommerce.php:227
+msgid "View cart"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:12
+msgid "You must have a minimum version of 4.2 to use this theme"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:21
+msgid "Restaurant Core"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:48
+msgid "Intuitive Custom Post Order"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:53
+msgid "One Click Demo Import"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:58
+msgid "Envato Market (Theme Updater)"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:119
+msgid "Primary Menu"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:120
+msgid "Top Bar Menu"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:121
+msgid "Below Footer Links"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:155
+msgid "Footer Widget Area"
+msgstr ""
+
+#: themes/cristiano/inc/init.php:156
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:393 themes/cristiano/inc/tgm.php:912
+#: themes/cristiano/inc/tgm.php:2618 themes/cristiano/inc/tgm.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:394 themes/cristiano/inc/tgm.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:608
+msgid "Update Required"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:1019 themes/cristiano/inc/tgm.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2358
+msgid "Required"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2380
+msgid "External Source"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2406
+msgid "Active"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2633
+msgid "Source"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2634
+msgid "Type"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2638
+msgid "Version"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2639
+msgid "Status"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2802
+msgid "Install"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2808
+msgid "Update"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2811
+msgid "Activate"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: themes/cristiano/inc/tgm.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themes/cristiano/search.php:5
+msgid "Search Results for:"
+msgstr ""
+
+#: themes/cristiano/search.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: themes/cristiano/single-dishes_menu.php:29
+msgid "Related Products"
+msgstr ""
+
+#: themes/cristiano/single.php:46
+msgid "Comments are closed"
+msgstr ""
+
+#: themes/cristiano/template-parts/loop-blog.php:16
+#: themes/cristiano/template-parts/loop-news-slider.php:12
+#: themes/cristiano/template-parts/page-headers/heading-slider.php:24
+#: themes/cristiano/template-parts/page-headers/wc-slider.php:24
+msgid "Read More"
+msgstr ""

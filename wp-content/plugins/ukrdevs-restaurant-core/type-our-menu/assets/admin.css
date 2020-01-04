@@ -1,0 +1,22 @@
+.column-images {
+	width: 62px;
+	text-align: center;
+}
+.column-images img {
+    margin: 0;
+    width: auto;
+    height: auto;
+    max-width: 50px;
+    max-height: 40px;
+    vertical-align: middle;
+}
+th.column-featured, 
+td.column-featured {
+}
+.cristiano-featured-product {
+	font-size: 16px;
+}
+.ajax-load {
+	opacity: 0.5;
+	pointer-events: none;
+}

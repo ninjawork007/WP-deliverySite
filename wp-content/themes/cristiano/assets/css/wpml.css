@@ -1,0 +1,68 @@
+/* NEW VERSION
+   ========================================================================== */
+#top-bar .wpml-ls-legacy-list-horizontal {
+	background: none; 
+}  
+#top-bar .wpml-ls-legacy-list-horizontal a {
+	color: #fff;
+}
+#top-bar .wpml-ls-legacy-list-horizontal li:last-child a {
+	padding-right: 0;
+}
+#top-bar .wpml-ls-legacy-list-horizontal .wpml-ls-current-language > a {
+	background: none;
+}
+#top-bar .wpml-ls-legacy-list-horizontal a {
+	background: none;	
+}
+#top-bar .wpml-ls-legacy-list-horizontal {
+	float: right;
+	padding: 0;
+	border: 0 none;
+}
+#top-bar .wpml-ls-legacy-list-horizontal a {
+	line-height: 40px;
+	padding: 0 5px;
+}
+.wpml-ls-legacy-list-horizontal li {
+	opacity: 0.8;
+}
+.wpml-ls-legacy-list-horizontal li:hover,
+.wpml-ls-legacy-list-horizontal .wpml-ls-current-language {
+	opacity: 1;
+}
+.wpml-ls-legacy-list-vertical.wpml-ls-statics-footer {
+	margin-bottom: 0;
+}
+.wpml-ls-statics-footer {
+	background-color: #1b2024;	
+	font-size: 13px;
+	padding-bottom: 0;	
+	border: 0 none;
+	display: block;
+	text-align: center;
+	padding: 15px 0;
+}
+.wpml-ls-statics-footer ul {
+	display: inline-table;
+	text-align: left;
+}
+.wpml-ls-legacy-list-horizontal.wpml-ls-statics-footer {
+	margin-bottom: 0;
+	padding-bottom: 30px;
+}
+#top-bar .wpml-ls-legacy-dropdown-click {
+	float: right;
+	margin-top: 8px;
+}
+#top-bar .wpml-ls-legacy-list-vertical {
+	float: right;
+	margin-top: 8px;	
+}
+#top-bar  .wpml-ls-legacy-dropdown {
+	float: right;
+	margin-top: 8px	
+}
+.wpml-ls-statics-footer a {
+	height: 25px;
+}
